@@ -3,10 +3,6 @@ Ungravel GroupWallet
 
 Ungravel helps loose individuals to become a self-governed group, potentially attracting investor funding.
 
-Ungravel is a distributed application for a bunch of people. It does not make sense to use it alone.
-
-Ungravel is not a platform and it does not belong to a company. It is entirely based on blockchain. 
-
 Ungravel groups may found a start-up or any other initiative together. Ungravel saves each members' belongings and share. 
 It creates a fair and safe space for informal team building.
 
