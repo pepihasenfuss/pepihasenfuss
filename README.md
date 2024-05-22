@@ -8,9 +8,9 @@ ungravel saves each members' belongings and share.
 
 It creates a fair and safe space for informal team building, entirely based on Ethereum Naming Service, ENS, and the ENS Manager on Ethereum mainnet.
 
-ungravel morphs a wild bunch of people into a self-funded, self-governed disciplined group of co-workers, represented as ENS Groups on mainnet.
+ungravel morphs a wild bunch of people into a self-funded, self-governed disciplined group of co-workers, represented as ENS-Groups on mainnet.
 
-Example:  https://app.ens.domains/ungravels.eth
+Sample ENS-Group:  https://app.ens.domains/ungravels.eth
 
 More about ungravel on Ethereum mainnet here: https://app.ens.domains/ungravel.eth 
 
