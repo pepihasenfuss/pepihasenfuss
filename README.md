@@ -10,7 +10,9 @@ It creates a fair and safe space for informal team building, entirely based on E
 
 ungravel morphs a wild bunch of people into a self-funded, self-governed disciplined group of co-workers, represented as ENS Groups on mainnet.
 
-Examole:  https://app.ens.domains/ungravels.eth
+Example:  https://app.ens.domains/ungravels.eth
+
+More about ungravel on Ethereum mainnet here: https://app.ens.domains/ungravel.eth 
 
 <!---
 pepihasenfuss/pepihasenfuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
