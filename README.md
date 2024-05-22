@@ -1,14 +1,14 @@
-Ungravel
+ungravel
 
 
-Ungravel helps loose individuals to become a self-governed group, potentially attracting investor funding.
+ungravel helps loose individuals to become a self-governed group, potentially attracting investor funding.
 
-Ungravel groups may found a start-up or any other initiative together.
-Ungravel saves each members' belongings and share. 
+ungravel groups may found a start-up or any other initiative  or informal group together.
+ungravel saves each members' belongings and share. 
 
-It creates a fair and safe space for informal team building, entirely based on Ethereum Naming Service.
+It creates a fair and safe space for informal team building, entirely based on Ethereum Naming Service, ENS, and the ENS Manager on Ethereum mainnet.
 
-Ungravel morphs a wild bunch of people into a self-funded, self-governed disciplined group of co-workers.
+ungravel morphs a wild bunch of people into a self-funded, self-governed disciplined group of co-workers, represented as ENS Groups on mainnet.
 
 
 <!---
