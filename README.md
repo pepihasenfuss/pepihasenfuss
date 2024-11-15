@@ -37,6 +37,8 @@ gnosis            http://gnosis.ungravel.org          (deprecating in 2024)
 
 taiko             http://taiko.ungravel.org           (new in summer 2024, unfortunately super slow)
 
+BASE              http://base.ungravel.org            (new in fall 2024, pretty fast!)
+
 
 <br><br>
 
