@@ -42,7 +42,7 @@ http://gnosis.ungravel.org gnosis                      (deprecating in 2024)
 
 http://taiko.ungravel.org taiko                        (new in summer 2024, unfortunately super slow)
 
-http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around )
+http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Higly recommended to play around! )
 
 http://optimism-sepolia.ungravel.org optimism-sepolia  ( I cannot get enough test ether! Otherwise fast. )
 
