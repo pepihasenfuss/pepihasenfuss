@@ -40,7 +40,7 @@ http://moonbeam.ungravel.org moonbeam                  (deprecated 1.7.2024)
 
 http://gnosis.ungravel.org gnosis                      (deprecating in 2024)
 
-http://taiko.ungravel.org taiko                        (new in summer 2024, unfortunately super slow)
+http://taiko.ungravel.org taiko                        (new in summer 2024, unfortunately super slow, probably in development)
 
 http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Higly recommended to play around! )
 
