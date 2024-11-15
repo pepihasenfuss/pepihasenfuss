@@ -21,7 +21,7 @@ http://ethereum.ungravel.org ethereum mainnet          ( super-fast thanks to In
 
 http://arbitrum.ungravel.org arbitrum                  ( super fast and really good user experience, thanks to BlockPi! )
 
-http://base.ungravel.org base                          (new in fall 2024, pretty fast! Promising.)
+http://base.ungravel.org base                          (new in fall 2024, pretty fast! Promising. Cheap transactions.)
 
 http://polygon.ungravel.org polygon                    ( live on mainnet, fast, although a bit spooky )
 
