@@ -15,7 +15,7 @@ More about Ungravel on Ethereum mainnet here: https://app.ens.domains/ungravel.e
 
 <br><br>
 
-Ungravel is live for a (friendly) user test on the following mainnet chains:
+Ungravel on mainnet chains:
 
 http://ethereum.ungravel.org ethereum mainnet          ( super-fast (thanks to the Infura guys), integrating with ENS-Manager V3 )
 
@@ -30,7 +30,7 @@ http://optimism.ungravel.org optimism                  ( I cannot get enough tes
 http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, fast )
 
 <br><br>
-Ungravel is live for testing on testnets:
+Ungravel on testnets:
 
 http://goerli.ungravel.org goerli                      (deprecated, sorry!)
 
