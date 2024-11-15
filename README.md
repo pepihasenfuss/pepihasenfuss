@@ -23,7 +23,7 @@ arbitrum          http://arbitrum.ungravel.org        ( super fast and really go
 
 polygon           http://polygon.ungravel.org         ( live on mainnet, pretty fast )
 
-optimism          http://optimism.ungravel.org        ( I cannot get enough test ether! Otherwise fast, to be deprecated 1.7.2024 )
+optimism          http://optimism.ungravel.org        ( I cannot get enough test ether! Otherwise fast, therefore deprecated 2024 )
 
 goerli            http://goerli.ungravel.org          (deprecated, sorry!)
 
