@@ -27,7 +27,7 @@ optimism          http://optimism.ungravel.org        ( I cannot get enough test
 
 goerli            http://goerli.ungravel.org          (deprecated, sorry!)
 
-sepolia           http://sepolia.ungravel.org         ( testnet installation, really slow )
+sepolia           http://sepolia.ungravel.org         ( testnet installation, really slow, only for debugging )
 
 moonbeam          http://moonbeam.ungravel.org        (deprecated 1.7.2024)
 
