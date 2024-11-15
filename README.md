@@ -19,7 +19,7 @@ Ungravel on mainnet chains:
 
 http://ethereum.ungravel.org ethereum mainnet          ( super-fast thanks to Infura, integrating ENS-Manager V3, but too expensive )
 
-http://arbitrum.ungravel.org arbitrum                  ( super fast and really good user experience, thank you to BlockPi! )
+http://arbitrum.ungravel.org arbitrum                  ( super fast and really good user experience, thanks to BlockPi! )
 
 http://base.ungravel.org base                          (new in fall 2024, pretty fast! Promising.)
 
