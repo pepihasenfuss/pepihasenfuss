@@ -17,7 +17,7 @@ More about Ungravel on Ethereum mainnet here: https://app.ens.domains/ungravel.e
 
 Ungravel on mainnet chains:
 
-http://ethereum.ungravel.org ethereum mainnet          ( super-fast (thanks to the Infura guys), integrating with ENS-Manager V3, but too expensive )
+http://ethereum.ungravel.org ethereum mainnet          ( super-fast thanks to Infura, integrating ENS-Manager V3, but too expensive )
 
 http://arbitrum.ungravel.org arbitrum                  ( super fast and really good user experience, thank you to BlockPi! )
 
