@@ -23,11 +23,11 @@ http://arbitrum.ungravel.org arbitrum                  ( super fast and really g
 
 http://base.ungravel.org base                          (new in fall 2024, pretty fast! Promising.)
 
-http://polygon.ungravel.org polygon                    ( live on mainnet, fast )
+http://polygon.ungravel.org polygon                    ( live on mainnet, fast, although a bit spooky )
 
 http://optimism.ungravel.org optimism                  ( I cannot get enough test ether! Otherwise fast, therefore deprecated 2024 )
 
-http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, fast )
+http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, but fast )
 
 <br><br>
 Ungravel on testnets:
