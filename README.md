@@ -1,7 +1,7 @@
 Ungravel
 
 
-Ungravel helps individuals to build a self-governed group, potentially attracting investor funding.
+Ungravel helps individuals to build a self-governed group, potentially attracting funding.
 
 Ungravel groups may found a start-up or any other initiative together.
 Ungravel saves each members' belongings and share. 
