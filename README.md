@@ -25,7 +25,7 @@ http://base.ungravel.org base                          (new in fall 2024, pretty
 
 http://polygon.ungravel.org polygon                    ( live on mainnet, fast, although a bit spooky )
 
-http://optimism.ungravel.org optimism                  ( I cannot get enough test ether! Otherwise fast, therefore deprecated 2024 )
+http://optimism.ungravel.org optimism                  ( I cannot get enough test ether! Otherwise fast, therefore deprecating 2024 )
 
 http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, but fast )
 
