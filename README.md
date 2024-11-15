@@ -27,7 +27,7 @@ http://polygon.ungravel.org polygon                    ( live on mainnet, fast, 
 
 http://optimism.ungravel.org optimism                  ( I cannot get enough test ether! Otherwise fast, therefore deprecating 2024 )
 
-http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, but fast )
+http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, but fast, not quite cheap )
 
 <br><br>
 Ungravel on testnets:
