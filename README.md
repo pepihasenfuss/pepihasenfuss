@@ -15,33 +15,36 @@ More about Ungravel on Ethereum mainnet here: https://app.ens.domains/ungravel.e
 
 <br><br>
 
-Ungravel is live for a (friendly) user test on the following chains:
+Ungravel is live for a (friendly) user test on the following mainnet chains:
 
-ethereum mainnet  http://ethereum.ungravel.org         ( super-fast (thanks to the Infura guys), integrating with ENS-Manager V3 )
+http://ethereum.ungravel.org ethereum mainnet          ( super-fast (thanks to the Infura guys), integrating with ENS-Manager V3 )
 
-arbitrum          http://arbitrum.ungravel.org         ( super fast and really good user experience, thank you to BlockPi! )
+http://arbitrum.ungravel.org arbitrum                  ( super fast and really good user experience, thank you to BlockPi! )
 
-base              http://base.ungravel.org             (new in fall 2024, pretty fast! Promising.)
+http://base.ungravel.org base                          (new in fall 2024, pretty fast! Promising.)
 
-polygon           http://polygon.ungravel.org          ( live on mainnet, fast )
+http://polygon.ungravel.org polygon                    ( live on mainnet, fast )
 
-optimism          http://optimism.ungravel.org         ( I cannot get enough test ether! Otherwise fast, therefore deprecated 2024 )
+http://optimism.ungravel.org optimism                  ( I cannot get enough test ether! Otherwise fast, therefore deprecated 2024 )
 
-goerli            http://goerli.ungravel.org           (deprecated, sorry!)
+http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, fast )
 
-sepolia           http://sepolia.ungravel.org          ( testnet installation, really slow, only for debugging )
+<br><br>
+Ungravel is live for testing on testnets:
 
-moonbeam          http://moonbeam.ungravel.org         (deprecated 1.7.2024)
+http://goerli.ungravel.org goerli                      (deprecated, sorry!)
 
-binance           http://bscmain.ungravel.org          ( live on mainnet, probably discontinued, fast )
+http://sepolia.ungravel.org sepolia                    ( testnet installation, really slow, only for debugging )
 
-gnosis            http://gnosis.ungravel.org           (deprecating in 2024)
+http://moonbeam.ungravel.org moonbeam                  (deprecated 1.7.2024)
 
-taiko             http://taiko.ungravel.org            (new in summer 2024, unfortunately super slow)
+http://gnosis.ungravel.org gnosis                      (deprecating in 2024)
 
-arbitrum-sepolia  http://arbitrum-sepolia.ungravel.org ( super fast test deployment to play around )
+http://taiko.ungravel.org taiko                        (new in summer 2024, unfortunately super slow)
 
-optimism-sepolia  http://optimism-sepolia.ungravel.org ( I cannot get enough test ether! Otherwise fast. )
+http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around )
+
+http://optimism-sepolia.ungravel.org optimism-sepolia  ( I cannot get enough test ether! Otherwise fast. )
 
 <br><br>
 
