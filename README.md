@@ -32,7 +32,17 @@ http://optimism.ungravel.org optimism                  ( I cannot get enough tes
 http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, but fast, not quite cheap )
 
 <br><br>
-Ungravel on testnets or discontinued developments:
+Ungravel on testnets:
+
+http://sepolia.ungravel.org sepolia                    ( testnet installation, really slow, only for debugging )
+
+http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Higly recommended to play around! )
+
+http://optimism-sepolia.ungravel.org optimism-sepolia  ( I cannot get enough test ether! Otherwise fast. )
+
+
+<br><br>
+Ungravel discontinued or deprecated chain developments:
 
 http://goerli.ungravel.org goerli                      (deprecated, sorry!)
 
@@ -45,10 +55,6 @@ http://gnosis.ungravel.org gnosis                      (deprecating in 2024)
 http://taiko.ungravel.org taiko                        (new in summer 2024, unfortunately super slow, probably chain in development)
 
 http://linea.ungravel.org linea                        (unfortunately super slow, transaction pick-up not reliable, deprecated development)
-
-http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Higly recommended to play around! )
-
-http://optimism-sepolia.ungravel.org optimism-sepolia  ( I cannot get enough test ether! Otherwise fast. )
 
 <br><br>
 
