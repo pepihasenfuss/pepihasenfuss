@@ -61,6 +61,8 @@ http://taiko.ungravel.org taiko                        (new in summer 2024, unfo
 
 http://linea.ungravel.org linea                        (unfortunately super slow, transaction pick-up not reliable, deprecated development)
 
+http://classic.ungravel.org ethereum classic           (unfortunately not a single stable node provider, deprecated development)
+
 <br><br>
 
 
