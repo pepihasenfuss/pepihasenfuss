@@ -27,7 +27,7 @@ http://blast.ungravel.org blast                        ( live on mainnet, quite 
 
 http://polygon.ungravel.org polygon                    ( live on mainnet, fast, although a bit spooky )
 
-http://optimism.ungravel.org optimism                  ( I cannot get enough test ether! Otherwise fast, therefore deprecating 2024 )
+http://optimism.ungravel.org optimism                  ( I cannot get enough test ether! Otherwise fast )
 
 http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, but fast, not quite cheap )
 
