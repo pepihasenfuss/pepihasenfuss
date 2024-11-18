@@ -31,14 +31,15 @@ http://optimism.ungravel.org optimism                  ( I cannot get enough tes
 
 http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, but fast, not quite cheap )
 
+
 <br><br>
 Ungravel on testnets:
 
-http://sepolia.ungravel.org sepolia                    ( testnet installation, really slow, only for debugging )
-
 http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Higly recommended to play around! )
 
-http://optimism-sepolia.ungravel.org optimism-sepolia  ( I cannot get enough test ether! Otherwise fast. Probably discontinued soon. )
+http://sepolia.ungravel.org sepolia                    ( testnet installation, really slow, only for debugging, not recommended )
+
+http://optimism-sepolia.ungravel.org optimism-sepolia  ( I cannot get enough test ether! Otherwise fast. To be discontinued soon. )
 
 
 <br><br>
