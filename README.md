@@ -23,6 +23,8 @@ http://arbitrum.ungravel.org arbitrum                  ( super fast and really g
 
 http://base.ungravel.org base                          (new in fall 2024, pretty fast! Promising. Cheap transactions.)
 
+http://blast.ungravel.org blast                        ( live on mainnet, quite cheap, fast )
+
 http://polygon.ungravel.org polygon                    ( live on mainnet, fast, although a bit spooky )
 
 http://optimism.ungravel.org optimism                  ( I cannot get enough test ether! Otherwise fast, therefore deprecating 2024 )
@@ -41,6 +43,8 @@ http://moonbeam.ungravel.org moonbeam                  (deprecated 1.7.2024)
 http://gnosis.ungravel.org gnosis                      (deprecating in 2024)
 
 http://taiko.ungravel.org taiko                        (new in summer 2024, unfortunately super slow, probably in development)
+
+http://linea.ungravel.org linea                        (unfortunately super slow, no reliable transaction pick-up, deprecated development)
 
 http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Higly recommended to play around! )
 
