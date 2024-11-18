@@ -46,7 +46,11 @@ Ungravel discontinued or deprecated chain developments:
 
 http://goerli.ungravel.org goerli                      (deprecated, sorry!)
 
-http://sepolia.ungravel.org sepolia                    ( testnet installation, really slow, only for debugging )
+http://rinkeby.ungravel.org rinkeby                    ( testnet installation, test chain deprecated )
+
+http://ropsten.ungravel.org ropsten                    ( testnet installation, test chain deprecated )
+
+http://kovan.ungravel.org kovan                        ( testnet installation, test chain deprecated )
 
 http://moonbeam.ungravel.org moonbeam                  (deprecated 1.7.2024)
 
