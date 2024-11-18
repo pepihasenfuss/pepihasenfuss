@@ -38,7 +38,7 @@ http://sepolia.ungravel.org sepolia                    ( testnet installation, r
 
 http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Higly recommended to play around! )
 
-http://optimism-sepolia.ungravel.org optimism-sepolia  ( I cannot get enough test ether! Otherwise fast. )
+http://optimism-sepolia.ungravel.org optimism-sepolia  ( I cannot get enough test ether! Otherwise fast. Probably discontinued soon. )
 
 
 <br><br>
