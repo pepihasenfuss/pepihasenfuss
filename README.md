@@ -44,7 +44,7 @@ http://gnosis.ungravel.org gnosis                      (deprecating in 2024)
 
 http://taiko.ungravel.org taiko                        (new in summer 2024, unfortunately super slow, probably chain in development)
 
-http://linea.ungravel.org linea                        (unfortunately super slow, no reliable transaction pick-up, deprecated development)
+http://linea.ungravel.org linea                        (unfortunately super slow, transaction pick-up not reliable, deprecated development)
 
 http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Higly recommended to play around! )
 
