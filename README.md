@@ -32,7 +32,7 @@ http://optimism.ungravel.org optimism                  ( I cannot get enough tes
 http://bscmain.ungravel.org binance                    ( live on mainnet, probably discontinued, but fast, not quite cheap )
 
 <br><br>
-Ungravel on testnets:
+Ungravel on testnets or discontinued developments:
 
 http://goerli.ungravel.org goerli                      (deprecated, sorry!)
 
