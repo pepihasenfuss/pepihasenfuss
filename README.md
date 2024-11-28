@@ -37,7 +37,7 @@ http://bscmain.ungravel.org binance                    ( live on mainnet, probab
 <br><br>
 Ungravel on testnets:
 
-http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Higly recommended to play around! )
+http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around: Highly recommended to play around! )
 
 http://sepolia.ungravel.org sepolia                    ( testnet installation, really slow, only for debugging, not recommended )
 
