@@ -25,6 +25,8 @@ http://base.ungravel.org base                          (new in fall 2024, pretty
 
 http://blast.ungravel.org blast                        ( live on mainnet, quite cheap, fast )
 
+http://scroll.ungravel.org scroll                      ( zk-roll-up SCROLL, pretty fast )
+
 http://polygon.ungravel.org polygon                    ( live on mainnet, fast, although a bit spooky )
 
 http://optimism.ungravel.org optimism                  ( I cannot get enough test ether! Otherwise fast )
@@ -60,6 +62,8 @@ http://gnosis.ungravel.org gnosis                      (deprecating in 2024)
 http://taiko.ungravel.org taiko                        (unfortunately super slow, probably transaction pick-up defect, unusable)
 
 http://linea.ungravel.org linea                        (unfortunately super slow, transaction pick-up not reliable, deprecated development)
+
+http://zkSync.ungravel.org zkSync Era                  (unfortunately NOT EVM compatible, special deployment/compiler needed, expensive!, discontinued installation)
 
 http://classic.ungravel.org ethereum classic           (unfortunately not a single stable node provider, deprecated development)
 
