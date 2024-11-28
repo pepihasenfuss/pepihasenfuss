@@ -55,7 +55,7 @@ http://ropsten.ungravel.org ropsten                    ( testnet installation, t
 
 http://kovan.ungravel.org kovan                        ( testnet installation, test chain deprecated )
 
-http://moonbeam.ungravel.org moonbeam                  (deprecated 1.7.2024)
+http://moonbeam.ungravel.org moonbeam                  (deprecated 1.7.2024, EVM-compatibility unstable, no estimateGas!)
 
 http://gnosis.ungravel.org gnosis                      (deprecating in 2024)
 
