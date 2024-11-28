@@ -43,6 +43,9 @@ http://sepolia.ungravel.org sepolia                    ( testnet installation, r
 
 http://optimism-sepolia.ungravel.org optimism-sepolia  ( I cannot get enough test ether! Otherwise fast. To be discontinued soon. )
 
+http://gnosis.ungravel.org gnosis                      (perhaps deprecating in 2024)
+
+
 
 <br><br>
 Ungravel discontinued or deprecated chain developments:
@@ -56,8 +59,6 @@ http://ropsten.ungravel.org ropsten                    ( testnet installation, t
 http://kovan.ungravel.org kovan                        ( testnet installation, test chain deprecated )
 
 http://moonbeam.ungravel.org moonbeam                  (deprecated 1.7.2024, EVM-compatibility unstable, no estimateGas!)
-
-http://gnosis.ungravel.org gnosis                      (deprecating in 2024)
 
 http://taiko.ungravel.org taiko                        (unfortunately super slow, transaction pick-up seems defect, unusable)
 
