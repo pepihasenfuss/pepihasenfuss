@@ -66,7 +66,7 @@ http://taiko.ungravel.org taiko                        (unfortunately super slow
 
 http://linea.ungravel.org linea                        (unfortunately super slow, transaction pick-up not reliable, deprecated development)
 
-http://zkSync.ungravel.org zkSync Era                  (unfortunately NOT EVM compatible, special deployment/compiler needed, expensive!, discontinued)
+http://zkSync.ungravel.org zkSync Era                  (unfortunately NOT EVM compatible, special deployment/compiler, discontinued)
 
 http://classic.ungravel.org ethereum classic           (unfortunately not a single stable node provider, deprecated development)
 
