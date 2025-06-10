@@ -45,7 +45,7 @@ http://sepolia.ungravel.org sepolia                    ( testnet installation, r
 
 http://optimism-sepolia.ungravel.org optimism-sepolia  ( Not enough test ether! Otherwise fast. Discontinued. )
 
-http://gnosis.ungravel.org gnosis                      (perhaps deprecating in 2025)
+http://gnosis.ungravel.org gnosis                      ( deprecated in 2025 )
 
 
 
