@@ -5,7 +5,7 @@ Ungravel helps individuals to build a self-governed group, potentially attractin
 
 Ungravel groups may found a start-up or any other initiative together. 
 
-It creates a fair and safe space for informal team building, entirely based on Ethereum Naming Service, ENS, and the ENS Manager.
+It creates a fair and safe space for informal team building.
 <br><br>
 
 Sample ENS-Group:  https://app.ens.domains/ungravels.eth
