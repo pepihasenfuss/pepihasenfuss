@@ -40,9 +40,9 @@ http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deploym
 
 http://sepolia.ungravel.org sepolia                    ( testnet installation, really slow, only debugging )
 
-http://optimism-sepolia.ungravel.org optimism-sepolia  ( Not enough test ether! Otherwise fast. Discontinued soon. )
+http://optimism-sepolia.ungravel.org optimism-sepolia  ( Not enough test ether! Otherwise fast. Discontinued. )
 
-http://gnosis.ungravel.org gnosis                      (perhaps deprecating in 2024)
+http://gnosis.ungravel.org gnosis                      (perhaps deprecating in 2025)
 
 
 
