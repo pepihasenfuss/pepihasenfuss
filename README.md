@@ -41,7 +41,7 @@ Ungravel on testnets:
 
 http://arbitrum-sepolia.ungravel.org arbitrum-sepolia  ( super fast test deployment to play around )
 
-http://sepolia.ungravel.org sepolia                    ( testnet installation, really slow, only debugging )
+https://www.ungravel.com/?bd?35 sepolia                ( testnet installation, really slow, only debugging )
 
 http://optimism-sepolia.ungravel.org optimism-sepolia  ( Not enough test ether! Otherwise fast. Discontinued. )
 
