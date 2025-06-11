@@ -1,11 +1,11 @@
 Ungravel
 
 
-Ungravel helps individuals to build a self-governed group, potentially attracting funding.
+Ungravel enables talents form self-empowered groups, raising funds and investing together, without giving control to any platform.
 
 Ungravel groups may found a start-up or any other initiative together. 
 
-It creates a fair and safe space for informal team building.
+It is a fair and safe space for informal team building.
 <br><br>
 
 Sample ENS-Group:  https://app.ens.domains/cab-shirt.eth
