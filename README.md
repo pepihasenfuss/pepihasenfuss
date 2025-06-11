@@ -5,7 +5,7 @@ Ungravel enables talents form self-empowered groups, raising funds and investing
 
 Ungravel groups may found a start-up or any other initiative together. 
 
-It is a fair and safe space for informal team building.
+It is a fair and safe space for informal team building, available in beta on 15 chains.
 <br><br>
 
 Sample ENS-Group:  https://app.ens.domains/cab-shirt.eth
