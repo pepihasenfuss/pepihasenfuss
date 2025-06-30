@@ -52,6 +52,8 @@ http://gnosis.ungravel.org gnosis                      ( to be deprecated in 202
 <br><br>
 Ungravel discontinued or deprecated chain developments:
 
+http://ganache.ungravel.org ganache                    (local test environment, unfortunately discontinued, thanks to ganache!)
+
 http://goerli.ungravel.org goerli                      (deprecated, sorry!)
 
 http://rinkeby.ungravel.org rinkeby                    ( testnet installation, test chain deprecated )
