@@ -32,7 +32,7 @@ http://optimism.ungravel.org optimism                  ( I cannot get enough tes
 
 http://bscmain.ungravel.org binance                    ( live on mainnet, fast, not quite cheap )
 
-http://unichain.ungravel.org unichain                  ( fast, not yet officially supported )
+http://unichain.ungravel.org unichain                  ( fast, not yet fully supported )
 
 
 
@@ -45,7 +45,7 @@ https://www.ungravel.com/?bd?35 sepolia                ( testnet installation, r
 
 http://optimism-sepolia.ungravel.org optimism-sepolia  ( Not enough test ether! Otherwise fast. Discontinued. )
 
-http://gnosis.ungravel.org gnosis                      ( deprecated in 2025 )
+http://gnosis.ungravel.org gnosis                      ( to be deprecated in 2025 )
 
 
 
